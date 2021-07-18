@@ -31,3 +31,6 @@ Keri is making a change on 6/20/21.  My hypothesis is that it will make a PR on 
 7/17/21 Another change to test out merging.
 
 7/17/21 The third change on patch-3.
+7/17/21 Just updating one line so patch-3 is ahead of my local branch.
+
+7/17/21 I'm adding one line on the local branch
